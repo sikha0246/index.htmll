@@ -1,0 +1,154 @@
+body
+{
+    backgruond-color:aquamarine;
+}
+{
+margin: 0%;
+}
+span{
+    color: #ffff;
+}
+/*----------------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*header style */
+#nav size{
+    padding: 0px 
+}
+#custom-nav-bg{
+    background-color:blueviolet ;
+ font-size: 1.4rem;
+padding: 0% 5% 0% 5%   
+}
+#business {
+    color:aquamarine;
+    font-size:4rem;
+    font-weight: bold;
+
+}
+#landing page{
+    color:aquamarine
+    font-size:3.5rem;
+    font-weight: bold;
+}
+#navlistyle{
+    color:aqua
+}
+img{
+    width: 50px;
+    height: 30px
+    border: solid 2px;
+
+
+}
+#home{
+    padding:6rem 6rem 2rem 6rem;
+}
+#business-head{
+    font-family:'Times New Roman', Times, serif
+    font-size:6rem
+    animation:'Times New Roman', Times, serif
+}
+@keyframe {
+   0% {
+    opicity:0;
+
+
+    }
+    100%{
+
+    }
+}
+#business-img{
+    padding:14rem 0rem 3rem 4rem;
+    width:30rem
+}
+#downarrow{
+    padding-bottom:2%;
+    text-align: centre;
+}
+#downarrow-logo{
+    width:9%
+    animation: down-arrow linear 0.3s infinite normal forwords;
+
+}
+@keyframes down-arrow{
+    0%
+    25%
+    50%
+    opicity: 1;
+}
+50%,
+ 75%{
+    opicity: 0
+ }
+ #about us{
+    background-color:#ffff
+    padding : 6rem 3rem;
+
+ }
+ #about us-img{
+    border-radius: 5%
+    width: 40rem;
+    margin-left: 20%;
+
+ }
+#about-text{
+    padding: 4rem 6rem
+}
+.about-head{
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+
+}
+#about-font-size{
+    font-family:'Times New Roman', Times, serif;
+    line-height: 2.5rem
+}
+#know more{
+    padding: 6rem 4rem 6rem 4rem
+    margin-top:1.2%;
+
+}
+service-head{
+    font-family:'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    margin-left:1.2%;
+}
+.horizontally-scroll{
+    padding: 6% 0% 5% 0%;
+    border: rgb(230,230,230)
+    overflow-x:scroll;
+
+}
+horizontally-scroll::-webkit-scrollbar{
+ height:15px;
+}
+horizonatlly-scroll::-webkit-scrollbar thumb{
+    background:white;
+    border-radius:10px;
+}
+#card-style{
+    padding: 6rem;
+    margin: 3rem;
+width: 40%;
+height: 20%;
+}
+#card-style:hover{
+    background-color: black;
+    color:aquamarine;
+    transion-dealy:0.5s;
+}
+#contactus{
+    padding: 15rem 15rem;
+    background-color:aqua
+}
+#contactushead{
+    font-family:'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: centre;
+}
+footer{
+    text-align: centre;
+}
+
+
